@@ -10,12 +10,12 @@ spec:
 
 ---
 
-apiVersion: backstage.io/v1alpha1
-kind: Component
-metadata:
-  name: orphan-me
-  description: I leet
-spec:
-  type: website
-  lifecycle: experimental
-  owner: guest
+# apiVersion: backstage.io/v1alpha1
+# kind: Component
+# metadata:
+#   name: orphan-me
+#   description: I leet
+# spec:
+#   type: website
+#   lifecycle: experimental
+#   owner: guest
