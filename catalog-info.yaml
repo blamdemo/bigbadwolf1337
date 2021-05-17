@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "jjkj/!k"
+  name: leet-service
   description: I leet
 spec:
   type: website
