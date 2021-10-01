@@ -8,23 +8,3 @@ spec:
   lifecycle: experimental
   owner: guest
 
----
-
-apiVersion: backstage.io/v1alpha1
-kind: Component
-metadata:
-  name: orphan-me
-  description: I leet
-spec:
-  type: website
-  lifecycle: experimental
-  owner: guest
-
----
-apiVersion: backstage.io/v1alpha1
-kind: Location
-metadata:
-  name: random-stuff
-spec:
-  type: url
-  target: https://github.com/blamdemo/new-repo20/blob/master/catalog-info.yaml
