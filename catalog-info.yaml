@@ -1,9 +1,17 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Domain
 metadata:
-  name: l33t-service
-  description: professional
+  name: mydomain
+  description: MyDomain
 spec:
-  type: website
-  lifecycle: experimental
-  owner: guest
+  owner: team-a
+
+# apiVersion: backstage.io/v1alpha1
+# kind: Component
+# metadata:
+#   name: l33t-service
+#   description: professional
+# spec:
+#   type: website
+#   lifecycle: experimental
+#   owner: guest
