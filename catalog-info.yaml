@@ -10,7 +10,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: l33t-service
-  description: professional
+  description: very professional
 spec:
   type: website
   lifecycle: experimental
